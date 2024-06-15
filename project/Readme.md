@@ -12,3 +12,6 @@
         db.create_all()
 
 1. flask run
+
+## Links
+Link to repo: https://github.com/maxizi/flask_auth_scotch
